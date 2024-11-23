@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-          "name": "Launch Evermos Test",
+          "name": "Launch MNC Test Tahap 1",
           "type": "go",
           "request": "launch",
           "mode": "auto",
